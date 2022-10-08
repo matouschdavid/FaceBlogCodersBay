@@ -1,0 +1,12 @@
+C:\Projects\Codersbay\Abendschule\C#\FaceBlogCodersBay\FaceBlogCodersBay\bin\Debug\net6.0\FaceBlogCodersBay.Library.deps.json
+C:\Projects\Codersbay\Abendschule\C#\FaceBlogCodersBay\FaceBlogCodersBay\bin\Debug\net6.0\FaceBlogCodersBay.Library.dll
+C:\Projects\Codersbay\Abendschule\C#\FaceBlogCodersBay\FaceBlogCodersBay\bin\Debug\net6.0\FaceBlogCodersBay.Library.pdb
+C:\Projects\Codersbay\Abendschule\C#\FaceBlogCodersBay\FaceBlogCodersBay\obj\Debug\net6.0\FaceBlogCodersBay.Library.csproj.AssemblyReference.cache
+C:\Projects\Codersbay\Abendschule\C#\FaceBlogCodersBay\FaceBlogCodersBay\obj\Debug\net6.0\FaceBlogCodersBay.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Codersbay\Abendschule\C#\FaceBlogCodersBay\FaceBlogCodersBay\obj\Debug\net6.0\FaceBlogCodersBay.Library.AssemblyInfoInputs.cache
+C:\Projects\Codersbay\Abendschule\C#\FaceBlogCodersBay\FaceBlogCodersBay\obj\Debug\net6.0\FaceBlogCodersBay.Library.AssemblyInfo.cs
+C:\Projects\Codersbay\Abendschule\C#\FaceBlogCodersBay\FaceBlogCodersBay\obj\Debug\net6.0\FaceBlogCodersBay.Library.csproj.CoreCompileInputs.cache
+C:\Projects\Codersbay\Abendschule\C#\FaceBlogCodersBay\FaceBlogCodersBay\obj\Debug\net6.0\FaceBlogCodersBay.Library.dll
+C:\Projects\Codersbay\Abendschule\C#\FaceBlogCodersBay\FaceBlogCodersBay\obj\Debug\net6.0\refint\FaceBlogCodersBay.Library.dll
+C:\Projects\Codersbay\Abendschule\C#\FaceBlogCodersBay\FaceBlogCodersBay\obj\Debug\net6.0\FaceBlogCodersBay.Library.pdb
+C:\Projects\Codersbay\Abendschule\C#\FaceBlogCodersBay\FaceBlogCodersBay\obj\Debug\net6.0\ref\FaceBlogCodersBay.Library.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FaceBlogCodersBay.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "FaceBlogCodersBay.Library": "1.0.0"
+        },
+        "runtime": {
+          "FaceBlogCodersBay.ConsoleApp.dll": {}
+        }
+      },
+      "FaceBlogCodersBay.Library/1.0.0": {
+        "runtime": {
+          "FaceBlogCodersBay.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FaceBlogCodersBay.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FaceBlogCodersBay.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

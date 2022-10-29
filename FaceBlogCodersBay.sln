@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceBlogCodersBay.Library", "FaceBlogCodersBay\FaceBlogCodersBay.Library.csproj", "{B46F5D6A-43F6-4040-AB64-82FA401A42E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FaceBlogCodersBay.Library", "FaceBlogCodersBay\FaceBlogCodersBay.Library.csproj", "{B46F5D6A-43F6-4040-AB64-82FA401A42E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceBlogCodersBay.ConsoleApp", "FaceBlogCodersBay.ConsoleApp\FaceBlogCodersBay.ConsoleApp.csproj", "{93D50C5B-4582-4147-BAD9-70702065C9B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FaceBlogCodersBay.ConsoleApp", "FaceBlogCodersBay.ConsoleApp\FaceBlogCodersBay.ConsoleApp.csproj", "{93D50C5B-4582-4147-BAD9-70702065C9B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceBlogCodersBay.RestAPI", "FaceBlogCodersBay.RestAPI\FaceBlogCodersBay.RestAPI.csproj", "{83970612-1A1F-498A-9924-1CE032855406}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{93D50C5B-4582-4147-BAD9-70702065C9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93D50C5B-4582-4147-BAD9-70702065C9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93D50C5B-4582-4147-BAD9-70702065C9B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83970612-1A1F-498A-9924-1CE032855406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83970612-1A1F-498A-9924-1CE032855406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83970612-1A1F-498A-9924-1CE032855406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83970612-1A1F-498A-9924-1CE032855406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

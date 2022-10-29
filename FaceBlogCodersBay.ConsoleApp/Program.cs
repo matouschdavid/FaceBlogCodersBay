@@ -7,7 +7,7 @@ public class Programm
     public static void Main(string[] argv)
     {
         //create a blog repository
-        var blogRepository = new BlogRepository();
+        var blogRepository = BlogRepository.Instance;
 
         //print blogs
         foreach (var blog in blogRepository.GetBlogs())
